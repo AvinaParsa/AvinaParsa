@@ -26,7 +26,7 @@ I graduated with a GPA of 18.54/20 and I'm currently expanding into BI dashboard
 
 - **[Web Scraping Pipeline for NASA Blog Articles](https://github.com/AvinaParsa/nasa-blog-scraper)** — An end-to-end scraping pipeline collecting 10+ articles with structured metadata, exported for downstream analysis.
 
-- **[Sales Dashboard in Power BI](#)** — An interactive management dashboard built from real advertising company data, covering products, sales trends, and key business metrics.
+- **[Sales Dashboard in Power BI](https://github.com/AvinaParsa/Sales-Dashboard-in-Power-BI-)** — An interactive management dashboard built from real advertising company data, covering products, sales trends, and key business metrics.
 
 
 #### Contact
