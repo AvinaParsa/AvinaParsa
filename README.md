@@ -1,4 +1,4 @@
-### Hi, I'm Avina 👋
+### Hi, I'm Avina
 
 I'm a Computer Science graduate with a strong interest in data science, machine learning, and applied AI. I like working through problems end to end — from collecting and cleaning raw data to building and evaluating models — and most of the projects here come from that process.
 
