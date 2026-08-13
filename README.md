@@ -20,7 +20,7 @@ I graduated with a GPA of 18.54/20 and I'm currently expanding into BI dashboard
 
 #### Featured Projects
 
-- **[Hybrid Abstractive Text Summarization with T5](#)** — An end-to-end summarization pipeline combining extractive pre-filtering with a fine-tuned T5 model, including a reward-based fine-tuning stage using ROUGE-L and BERTScore.
+- **[Hybrid Abstractive Text Summarization with T5](- **[Hybrid Abstractive Text Summarization with T5](https://github.com/AvinaParsa/hybrid-text-summarization-t5)**)** — An end-to-end summarization pipeline combining extractive pre-filtering with a fine-tuned T5 model, including a reward-based fine-tuning stage using ROUGE-L and BERTScore.
 
 - **[N-gram Language Modeling & LSTM for Protein Sequence Prediction](#)** — Statistical N-gram models compared against an LSTM-based neural sequence model for predicting amino acid sequences.
 
