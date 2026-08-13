@@ -22,7 +22,7 @@ I graduated with a GPA of 18.54/20 and I'm currently expanding into BI dashboard
 
 - **[Hybrid Abstractive Text Summarization with T5](- **[Hybrid Abstractive Text Summarization with T5](https://github.com/AvinaParsa/hybrid-text-summarization-t5)**)** — An end-to-end summarization pipeline combining extractive pre-filtering with a fine-tuned T5 model, including a reward-based fine-tuning stage using ROUGE-L and BERTScore.
 
-- **[N-gram Language Modeling & LSTM for Protein Sequence Prediction](#)** — Statistical N-gram models compared against an LSTM-based neural sequence model for predicting amino acid sequences.
+- **[N-gram Language Modeling & LSTM for Protein Sequence Prediction](https://github.com/AvinaParsa/ngram-lstm-protein-prediction/blob/main/ngram_lstm_protein_prediction.ipynb)** — Statistical N-gram models compared against an LSTM-based neural sequence model for predicting amino acid sequences.
 
 - **[EDA & Regression on California Housing Dataset](#)** — Full exploratory analysis on 20,640 real-estate records, including spatial pricing patterns and feature preparation for regression modeling.
 
